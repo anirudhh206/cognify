@@ -1,0 +1,74 @@
+# ============================================================================
+# COGNIFY - Multi-Agent Supply Chain Finance System
+# Complete Production Dependencies
+# ============================================================================
+
+# Core Web Framework
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.5.0
+
+# Async & Networking
+aiohttp>=3.9.0
+httpx>=0.25.0
+
+# Message Queue & Caching
+redis>=5.0.0
+aioredis>=2.0.1
+
+# Blockchain & Web3
+web3>=6.11.0
+eth-account>=0.10.0
+eth-utils>=2.3.0
+
+# uAgents Framework (ASI Alliance)
+uagents>=0.12.0
+uagents-core>=0.1.0
+
+# Machine Learning - Core
+torch>=2.1.0
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Machine Learning - Traditional ML
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+lightgbm>=4.1.0
+
+# Reinforcement Learning
+gym>=0.26.0
+
+# Data Processing
+pandas>=2.1.0
+
+# Explainable AI
+shap>=0.43.0
+
+# API Integrations
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Database
+psycopg2-binary>=2.9.0
+sqlalchemy>=2.0.0
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-cov>=4.1.0
+
+# Code Quality
+black>=23.11.0
+pylint>=3.0.0
+
+# Visualization
+plotly>=5.18.0
+matplotlib>=3.8.0
+
+# Utils
+python-dateutil>=2.8.0
+pytz>=2023.3
+tqdm>=4.66.0
+
+# Security
+cryptography>=41.0.0

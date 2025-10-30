@@ -1,0 +1,7 @@
+{
+  "total_decisions": 10000,
+  "accuracy": 82.69999999999999,
+  "avg_reward": 0.6630699999999627,
+  "model_version": "v2_advanced",
+  "timestamp": "2025-10-29T19:46:55"
+}

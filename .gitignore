@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+*.env
+
+# MeTTa Knowledge Base (auto-generated)
+backend/agents/metta/kb_rules.json
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Redis
+dump.rdb
+
+# Node modules (if any)
+node_modules/
+
+# Test files
+test_*.py
+*_test.py
