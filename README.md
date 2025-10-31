@@ -326,6 +326,18 @@ python client_demo.py
 
 ---
 
+**Live Testing:** 
+Agents are available for live testing during judging hours 
+(Nov 1-3, 9AM-6PM EST). 
+
+To run locally:
+1. Clone repo and install dependencies
+2. Start Redis: redis-server
+3. Run 3 agents (see Installation section)
+4. Chat via ASI:One or test with client_demo.py
+
+**For judges:** Please watch the demo video for complete 
+walkthrough, or contact [anirudhvashisth2006@gmail.com] to schedule a live demo.
 ## 🎮 Usage Examples
 
 ### Via ASI:One Chat (Recommended)
