@@ -75,7 +75,7 @@ All agents are **registered on Agentverse** and **live on ASI:One** with Chat Pr
 ### 1. 💰 Finance Agent
 ```
 Name:     FinanceAgent
-Address:  agent1q2e9kfdrxfa5dxn6zeyw47287ca36cdur9xevhmdzzfmf4cwlmahv73mpev
+Address:  agent1qg7hc9ev9df6v28whpxk9vpk7tthmrmfzkmtwheaqf4p7qur2sv25l20yzh
 Mailbox:  true
 Port:     8000
 Category: Innovation Lab
@@ -89,7 +89,7 @@ Category: Innovation Lab
 ### 2. 📦 Logistics Agent
 ```
 Name:     LogisticsAgent
-Address:  agent1qtw0hy4kj65fv6j7bmjtzttq7ys2u8ggx2gzfquc3h0vym85ufq5qx27fc3
+Address:  agent1qdqfr8j4vr9ll3epdl3dxajfcj03rl8f5c80gh2cns55dwm9wnqv2khhp09
 Mailbox:  true
 Port:     8001
 Category: Innovation Lab
@@ -104,7 +104,7 @@ Category: Innovation Lab
 ### 3. ⚖️ Governance Agent (MeTTa-Powered)
 ```
 Name:     GovernanceAgent
-Address:  agent1q0mau8vkmg78xxx7gp8l5dxmta7mak734szd2k069twvx3vqdrqkj0l2uz0
+Address:  agent1qfhpfk774afhaukqruu4j6csxkas55tc6n9t9krh7eckasrupd46sfe5xtd
 Mailbox:  true
 Port:     8002
 Category: Innovation Lab
